@@ -1,0 +1,9 @@
+ec2_access_key: "--REMOVED--"
+
+ec2_secret_key: "--REMOVED--"
+
+export AWS_ACCESS_KEY_ID='AK123'
+
+export AWS_SECRET_ACCESS_KEY='abc123'
+azureuser@123
+azureuser"123
